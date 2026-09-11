@@ -20,3 +20,5 @@ synth_300mhz.log
 # Generated demo artifacts
 demo/decrypted_output.pdf
 demo/encrypted_payload.bin
+
+*.vcd
